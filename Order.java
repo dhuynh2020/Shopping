@@ -33,7 +33,7 @@ public class Order{
         for (int i = 0; i < 10; i++){
             str += data[i].getName() + "\t" + "\t" + data[i].getId() + "\t" + "\t" + data[i].getPrice() + "\n";
         }
-        str += subtotal() + "\n" + salesTax() + "\n" + grandTotal();
+        str += "Subtotal: " + subtotal() + "\n" + salesTax() + "\n" + grandTotal();
         return str;
     }
     
