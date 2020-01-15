@@ -8,7 +8,7 @@ public class Shopping{
         data[3] = new Item("Dog", "12351", 10000);
         data[4] = new Item("Noah Kivit", "1", -9000);
         data[5] = new Item("Potato", "123125214", 19999);
-        data[6] = new Item("Hamburger", "12312524", 19999);
+        data[6] = new Item("Burger", "12312524", 19999);
         data[7] = new Item("Taki", "12312521", 1699);
         data[8] = new Item("Cheeto", "12315214", 1299);
         data[9] = new Item("Pea", "13125214", 15999);
